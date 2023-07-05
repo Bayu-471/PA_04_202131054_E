@@ -4,6 +4,11 @@ Nama : Bayu Alif Pratikno
 Nim : 202131054
 Matakuliah = Pengolahan Citra
 
+*TEORI YANG MENDUKUNG
+Apabila gambar dengan photo maka hasil sangat berpengaruh baik berupa jumlah pixel, ratio dan coloring gambar.
+dengan pemprosesan gambar yang signifikan melalui pengcitraan diharapkan hasil yang lebih baik.
+
+*TAHAPAN PENYELESAIAN
 Untuk mendeteksi buah pada gambar menggunakan Jupyter Notebook,dapat menggunakan beberapa library komputer vision populer seperti OpenCV atau TensorFlow. Di bawah ini adalah contoh praktek hasil menggunakan OpenCV:
 
 1. Instalasi Libraries:
